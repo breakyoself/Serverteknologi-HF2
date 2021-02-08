@@ -24,5 +24,6 @@ Af Mark, Jacob & Mads
 ## Del-1
 Opretter et extra netkort på Server1 og sætter det til Custom (VMnet4).
 ![vmware-vmnet4](images/vmware-vmnet4.png)
+<br/>
 Tilføjer en extra harddisk på Server1.
 ![vmware-drive2](images/vmware-drive2.png)
