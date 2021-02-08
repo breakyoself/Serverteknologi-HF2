@@ -2,7 +2,7 @@
 
 Af Mark, Jacob & Mads
 
-## Indholdsfortegnelse:
+## Indhold:
 * [Del-1](#)
 * [Del-2](#)
 	* [Underpunkt-1](#)
