@@ -42,5 +42,5 @@ Tilføjer en extra harddisk på Server1.
 Omdøber server nummer 1, til Server1.
 ![computer-name-server3](images/computer-name-server3.png)
 <br/>
-Vælger server roller på Server1.
+Vælger server roller på Server1. AD, DHCP og DNS.
 ![server-roles-server1](images/server-roles-server1.png)
