@@ -3,7 +3,7 @@
 Af Mark, Jacob & Mads
 
 ## Indhold:
-* [Del-1](#)
+* [Del-1](#Del-1)
 * [Del-2](#)
 	* [Underpunkt-1](#)
 * [Del-3](#)
@@ -21,3 +21,6 @@ Af Mark, Jacob & Mads
 	* [Underpunkt-2](#)
 * [Del-12](#)
 
+## Del-1
+Opretter et extra netkort og sætter det til Custom (VMnet4).
+![server1-vmware](images/server1-vmware.png)
