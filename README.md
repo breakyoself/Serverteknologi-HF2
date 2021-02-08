@@ -6,7 +6,7 @@ Af Mark, Jacob & Mads
 * [Del-1](#Del-1)
 	* [VMWare](#vmware)
 	* [IP Table](#ip-table)
-	* [Serveropsætning](#server-opsætning)
+	* [Server opsætning](#server-opsætning)
 * [Del-2](#)
 	* [Underpunkt-1](#)
 * [Del-3](#)
@@ -48,5 +48,7 @@ Sætter statisk IP på Server2 og Server3.
 <br/>
 ![ipv4-server2](images/ipv4-server2.png)
 <br/>
-Tilføjer Server2 og Server3 til domænet jmm.local
+Tilføjer Server2 og Server3 til domænet jmm.local.
 ![join-domain-server2](images/join-domain-server2.png)
+## Del-2
+### 
