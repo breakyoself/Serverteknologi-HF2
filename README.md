@@ -32,12 +32,12 @@ Opretter et extra netkort på Server1 og sætter det til Custom (VMnet4).
 Tilføjer en extra harddisk på Server1.
 ![vmware-drive2](images/vmware-drive2.png)
 ### IP Table
-| Navn          | IP adresse    | DNS          | Gateway      |
-| ------------- |:-------------:|:-------------|:-------------:
-| Server1       | 192.168.10.1  | 192.168.10.1 | 192.168.10.1 |
-| Server2       | 192.168.10.2  | 192.168.10.1 | 192.168.10.1 |
-| Server3       | 192.168.10.3  | 192.168.10.1 | 192.168.10.1 |
-| Client1       | DHCP          | 192.168.10.1 | 192.168.10.1 |
+| Navn          | IP adresse    | DNS          | Gateway      | Subnet       |
+| ------------- |:-------------:|:-------------|:-------------|:-------------:
+| Server1       | 192.168.10.1  | 192.168.10.1 | 192.168.10.1 | 255.255.255.0|
+| Server2       | 192.168.10.2  | 192.168.10.1 | 192.168.10.1 | 255.255.255.0|
+| Server3       | 192.168.10.3  | 192.168.10.1 | 192.168.10.1 | 255.255.255.0|
+| Client1       | DHCP          | 192.168.10.1 | 192.168.10.1 | 255.255.255.0|
 ### Server opsætning
 Omdøber server nummer 3, til Server3. (Det gør vi for alle 3 servere inden vi går videre med opsætningen).
 ![computer-name-server3](images/computer-name-server3.png)
