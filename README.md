@@ -36,5 +36,3 @@ Tilføjer en extra harddisk på Server1.
 | Server3       | 192.168.10.3  | 192.168.10.1 |
 | Client1       | DHCP          | 192.168.10.1 |
 
-asdfasdf
-![vmware-vmnet4](images/vmware-vmnet4.png)
