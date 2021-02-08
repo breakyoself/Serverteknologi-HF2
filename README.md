@@ -6,7 +6,7 @@ Af Mark, Jacob & Mads
 * [Del-1](#Del-1)
 	* [VMWare](#vmware)
 	* [IP Table](#ip-table)
-	* [Server roller](#server-roller)
+	* [Server1](#server1)
 * [Del-2](#)
 	* [Underpunkt-1](#)
 * [Del-3](#)
@@ -41,5 +41,6 @@ Tilføjer en extra harddisk på Server1.
 ### Server1
 Omdøber server nummer 1, til Server1.
 ![computer-name-server3](images/computer-name-server3.png)
+<br/>
 Vælger server roller på Server1.
 ![server-roles-server1](images/server-roles-server1.png)
