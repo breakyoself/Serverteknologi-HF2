@@ -4,7 +4,9 @@ Af Mark, Jacob & Mads
 
 ## Indhold:
 * [Del-1](#Del-1)
+	* [VMWare](#vmware)
 	* [IP Table](#ip-table)
+	* [Server roller](#server-roller)
 * [Del-2](#)
 	* [Underpunkt-1](#)
 * [Del-3](#)
@@ -23,6 +25,7 @@ Af Mark, Jacob & Mads
 * [Del-12](#)
 
 ## Del-1
+### VMWare
 Opretter et extra netkort på Server1 og sætter det til Custom (VMnet4).
 ![vmware-vmnet4](images/vmware-vmnet4.png)
 <br/>
@@ -35,4 +38,8 @@ Tilføjer en extra harddisk på Server1.
 | Server2       | 192.168.10.2  | 192.168.10.1 |
 | Server3       | 192.168.10.3  | 192.168.10.1 |
 | Client1       | DHCP          | 192.168.10.1 |
-
+### Server1
+Omdøber server nummer 1, til Server1.
+![computer-name-server3](images/computer-name-server3.png)
+Vælger server roller på Server1.
+![server-roles-server1](images/server-roles-server1.png)
