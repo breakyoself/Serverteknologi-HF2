@@ -46,7 +46,7 @@ Vælger server roller på Server1. ADDS, DHCP og DNS.
 ![server-roles-server1](images/server-roles-server1.png)
 Sætter statisk IP på Server2 og Server3.
 <br/>
-![ip-adresse-server2](images/ip-adresse-server2.png)
+![ipv4-server2](images/ipv4-server2.png)
 <br/>
 Tilføjer Server2 og Server3 til domænet jmm.local
 ![join-domain-server2](images/join-domain-server2.png)
