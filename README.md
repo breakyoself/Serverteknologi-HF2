@@ -28,7 +28,7 @@ Opretter et extra netkort på Server1 og sætter det til Custom (VMnet4).
 Tilføjer en extra harddisk på Server1.
 ![vmware-drive2](images/vmware-drive2.png)
 ### IP Table
-| Tables        | IP adresse    | DNS          |
+| Navn          | IP adresse    | DNS          |
 | ------------- |:-------------:|:-------------:
 | Server1       | 192.168.10.1  | 192.168.10.1 |
 | Server2       | 192.168.10.2  | 192.168.10.1 |
