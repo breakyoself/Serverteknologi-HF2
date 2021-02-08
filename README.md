@@ -6,7 +6,7 @@ Af Mark, Jacob & Mads
 * [Del-1](#Del-1)
 	* [VMWare](#vmware)
 	* [IP Table](#ip-table)
-	* [Server1](#server1)
+	* [Serveropsætning](#server-opsætning)
 * [Del-2](#)
 	* [Underpunkt-1](#)
 * [Del-3](#)
@@ -38,9 +38,9 @@ Tilføjer en extra harddisk på Server1.
 | Server2       | 192.168.10.2  | 192.168.10.1 |
 | Server3       | 192.168.10.3  | 192.168.10.1 |
 | Client1       | DHCP          | 192.168.10.1 |
-### Server1
-Omdøber server nummer 1, til Server1.
+### Server opsætning
+Omdøber server nummer 3, til Server3. (Gør dette for alle 3 servere inden man går videre med opsætningen).
 ![computer-name-server3](images/computer-name-server3.png)
 <br/>
-Vælger server roller på Server1. AD, DHCP og DNS.
+Vælger server roller på Server1. ADDS, DHCP og DNS.
 ![server-roles-server1](images/server-roles-server1.png)
