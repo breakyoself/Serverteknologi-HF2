@@ -1,8 +1,8 @@
-## Serverteknologi-HF2
+# Serverteknologi-HF2
 
 Af Mark, Jacob & Mads
 
-# Indholdsfortegnelse:
+## Indholdsfortegnelse:
 * [Del-1](#)
 * [Del-2](#)
 	* [Underpunkt-1](#)
