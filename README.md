@@ -22,5 +22,5 @@ Af Mark, Jacob & Mads
 * [Del-12](#)
 
 ## Del-1
-Opretter et extra netkort og sætter det til Custom (VMnet4).
+Opretter et extra netkort på Server1 og sætter det til Custom (VMnet4).
 ![vmware-vmnet4](images/vmware-vmnet4.png)
