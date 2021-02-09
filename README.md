@@ -49,6 +49,7 @@ Sætter statisk IP på Server2 og Server3.
 ![ipv4-server2](images/ipv4-server2.png)
 <br/>
 Tilføjer Server2 og Server3 til domænet jmm.local.
+<br/>
 ![add-server2-to-domain](images/add-server2-to-domain.png)
 <br/>
 Resultat.
