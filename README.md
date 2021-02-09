@@ -50,6 +50,7 @@ Sætter statisk IP på Server2 og Server3.
 <br/>
 Tilføjer Server2 og Server3 til domænet jmm.local.
 ![add-server2-to-domain](images/add-server2-to-domain.png)
+<br/>
 Resultat.
 ![join-domain-server2](images/join-domain-server2.png)
 ## Del-2
