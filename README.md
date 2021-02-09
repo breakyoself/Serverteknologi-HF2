@@ -54,5 +54,5 @@ Tilføjer Server2 og Server3 til domænet jmm.local.
 Opsætning af DNS Forward Lookup Zone (FLZ) og Reverse Lookup Zone (RLZ) for vores domæne.
 <br/>
 <br/>
-Sætter DNS op på Server2.
+Installerer DNS op på Server2.
 ![add-dns-server-server2](images/add-dns-server-server2.png)
