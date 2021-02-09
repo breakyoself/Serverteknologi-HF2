@@ -3,12 +3,11 @@
 Af Mark, Jacob & Mads
 
 ## Indhold:
-* [Del-1](#Del-1)
+* [Del-1](#del-1)
 	* [VMWare](#vmware)
 	* [IP Table](#ip-table)
 	* [Server opsætning](#server-opsætning)
-* [Del-2](#)
-	* [Underpunkt-1](#)
+* [Del-2](#del-2)
 * [Del-3](#)
 	* [Underpunkt-1](#)
 * [Del-4](#)
