@@ -8,7 +8,7 @@ Af Mark, Jacob & Mads
 	* [IP Table](#ip-table)
 	* [Server opsætning](#server-opsætning)
 * [Del-2](#del-2)
-* [Del-3](#)
+* [Del-3](#del-3)
 	* [Underpunkt-1](#)
 * [Del-4](#)
 	* [Underpunkt-1](#)
